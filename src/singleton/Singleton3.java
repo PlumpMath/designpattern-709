@@ -2,7 +2,6 @@ package singleton;
 
 /**
  * Ë«ÖØ¼ì²âËø
- * @author zcl13993
  *
  */
 public class Singleton3 {

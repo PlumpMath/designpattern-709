@@ -2,7 +2,6 @@ package singleton;
 
 /**
  * 懒汉式线程不安全测试
- * @author zcl13993
  *
  */
 public class TestThread implements Runnable {

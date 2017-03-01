@@ -5,7 +5,6 @@ import factory.factorymethod.Car;
 
 /**
  * ¼òµ¥¹¤³§
- * @author zcl13993
  *
  */
 public class CarFactory {

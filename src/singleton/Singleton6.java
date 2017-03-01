@@ -4,7 +4,6 @@ import java.io.Serializable;
 
 /**
  * 懒汉式,请求实例的时候才去创建该单例对象
- * @author zcl13993
  *
  */
 public class Singleton6 implements Serializable {

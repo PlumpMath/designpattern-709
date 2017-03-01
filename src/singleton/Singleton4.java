@@ -1,7 +1,6 @@
 package singleton;
 /**
  * 静态内部类实现延迟加载
- * @author zcl13993
  *
  */
 public class Singleton4 {
